@@ -18,6 +18,7 @@ Xaurum (XAUR): 0x0e35f386db0b7b75fad572294448df84f80b95c4
 SunContract (SNC): 0x0e35f386db0b7b75fad572294448df84f80b95c4
 Ark.io (ARK): ATZRCdaoxnc3xcMN3Y3Qyo76fbwifQV7j8
 Litecoin (LTC): MGejJ5U85tMVJfe993wF4PHtzce988jC8n
+Ripple (XRP): rpdrz9UFqvjWCV3hf3V4nsZDkVaexyWarP
 
 Statut društva: https://bitcoin.si/assets/statut.pdf
 
