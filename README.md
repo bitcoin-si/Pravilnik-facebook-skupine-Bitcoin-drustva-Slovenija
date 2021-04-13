@@ -7,7 +7,7 @@ Pri pridružitivi v FB skupino vas prosim za odgovore na 3 vprašanja , ki so po
 V primeru, da na administratorji na vašem profilu opazijo vašo vpletenost v znane piramidne sheme oz podobne spletne prevare si pridržujemo pravico, da zavrnemo vašo prošnjo za priključitev v skupino.
 
 Na spodnji povezavi se nahaja pristopna izjava za včlanitev v Bitcoin društvo:
-https://goo.gl/forms/1DewxOoawwwPrWDo2
+https://forms.gle/ZcvZQd3XyA4fdh598
 Telegram skupina: https://t.me/BitcoinSi
 Statut društva: https://bitcoin.si/assets/statut.pdf
 
